@@ -104,7 +104,7 @@ if answer_1 == a_1:
                 print("You go right.")
                 print("You walk up a long flight of stairs. You see a group of goblins. What do you do? A: Attack, B: Run back down")
                 answer_5 = (input("Put input here: "))
-                if answer_5 = a_1:
+                if answer_5 == a_1:
                     print("You slash at one of the goblins. It gets destroyed. You slash at the other one and it gets demolished into bits and pieces.")
                     
         if answer_3 == b_1:
